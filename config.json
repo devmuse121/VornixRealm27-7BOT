@@ -1,8 +1,8 @@
 {
 	"client": {
-		"host": "VornixRealm.aternos.me",
-		"port": "41217",
-		"username": "VornixBoss"
+		"host": "SERVER_IP_ADDRESS",
+		"port": "PORT_NUMBER",
+		"username": "BOT_NAME"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
